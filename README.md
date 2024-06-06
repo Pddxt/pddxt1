@@ -1,4 +1,4 @@
 # pddxt1
 My first Git repository
 <br>
-Author - Pratyush dixit
+Author - Pratyush dixit (KIT)
